@@ -1,0 +1,6 @@
+{
+  "name": "Anonymous Feedback Page",
+  "description": "A personal page to receive anonymous messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
